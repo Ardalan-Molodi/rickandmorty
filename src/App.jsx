@@ -1,8 +1,6 @@
 function App() {
   return (
-    <>
-     <Login />
-    </>
+    <div className="">Hel</div>
   )
 }
 export default App

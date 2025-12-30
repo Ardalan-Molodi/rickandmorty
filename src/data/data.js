@@ -24,8 +24,8 @@ const characters = [
   {
     id: 3,
     name: "Summer Smith",
-    status: "Alive",
-    species: "Human",
+    status: "Dead",
+    species: "Animal",
     type: "",
     gender: "Female",
     origin: { name: "Earth (C-137)", url: "https://rickandmortyapi.com/api/location/1" },
